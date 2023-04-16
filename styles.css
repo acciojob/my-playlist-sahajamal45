@@ -1,11 +1,11 @@
-ul{
-	
+li{
+	margin:0px 0px 0px 5px;
 }
 a{
 	background-color:white;
 	display:inline-block;
 	width:400px;
-	text-decoration: none;
+	text-decoration-line: none;
 	margin: 0 0 0 10px;
 /* 	margin:20px; */
 }
@@ -18,7 +18,7 @@ background-color:#cccccc;
 .player_two{
 /* 	padding:0px; */
 	border:10px solid white;
-
+border-radius:10px;
 	text-align:center;
 	padding:0px;
 	margin:0 100px 5px 100px;
@@ -28,10 +28,6 @@ background-color:#cccccc;
 p{
 	text-align:left;
 }
-img{
-	height:200px;
-	width:200px;
-}
-h2{
+h2,h1{
 	text-align:center;
 }
