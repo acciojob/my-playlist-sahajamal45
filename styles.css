@@ -1,19 +1,19 @@
 li{
-	margin:0px 0px 0px 5px;
+/* 	margin:0px 0px 0px 5px; */
 }
 a{
 	background-color:white;
 	display:inline-block;
-	width:400px;
+	width:500px;
 	text-decoration-line: none;
-	margin: 0 0 0 10px;
+/* 	margin: 0 0 0 10px; */
 /* 	margin:20px; */
 }
 .all{
 	background-color:#cccccc;
 }
 .player_one{
-background-color:#cccccc;
+background-color:
 }
 .player_two{
 /* 	padding:0px; */
@@ -28,6 +28,9 @@ border-radius:10px;
 p{
 	text-align:left;
 }
-h2,h1{
+h2{
+	text-align:center;
+}
+h1{
 	text-align:center;
 }
